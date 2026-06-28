@@ -11,13 +11,11 @@ I am a budding **Systems Administrator and Full Stack Developer**.
 
 My Professional Goals Are To:
 
-
 Build my systems skills
 
 Build my full stack skills
 
 Build my software skills
-
 
 Combine all of these skills together as a **DevOps Bridge**.
 
