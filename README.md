@@ -1,7 +1,7 @@
 # FEWD1-Portfolio
-FEWD1 GitHub Assignment
+## FEWD1 GitHub Assignment
 
-##Introductions
+# Introductions
 
 Hello there! 
   My name is **Donna L. Boyd**. 
